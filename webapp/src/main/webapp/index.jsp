@@ -1,1 +1,1 @@
- <h1> Thankyou for Vist, Welcome to VIT </h1>>
+ <h1> Wellcome to VIT </h1>
